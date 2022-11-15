@@ -1,9 +1,9 @@
 {
   "exports": {
-    "resourceName": "my-resource"
+    "resourceName": "pefcl-esx"
   },
   "general": {
-    "useFrameworkIntegration": false
+    "useFrameworkIntegration": true
   },
   "database": {
     "profileQueries": true
@@ -11,5 +11,5 @@
   "debug": {
     "level": "silly"
   },
-  "locale": "en"
+  "locale": "it"
 }
