@@ -1,12 +1,12 @@
 {
   "general": {
-    "language": "en",
+    "language": "it",
     "currency": "USD",
     "identifierType": "license"
   },
   "frameworkIntegration": {
-    "enabled": false,
-    "resource": "your-resource",
+    "enabled": true,
+    "resource": "pefcl-esx",
     "syncInitialBankBalance": true
   },
   "database": {
